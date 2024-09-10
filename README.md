@@ -63,7 +63,7 @@ Start the frontend development server with:
 sh
 Copy code
 npm start
-The frontend will be accessible at http://localhost:3001. It fetches deposit data from the backend at http://localhost:5000/deposits and displays it in a table.
+The frontend will be accessible at http://localhost:3001. It fetches deposit data from the backend at http://localhost:3001/deposits and displays it in a table.
 Usage Instructions
 
 Starting the Project
